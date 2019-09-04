@@ -16,13 +16,15 @@ Bioconductor. The goals are to:
 - keep contributors up to speed with the latest developments
   coordinate any related efforts.
 
-The main conference will be on Monday 9 and Tuesday 10 December 2019. 
+The main conference will be on Monday 9 and Tuesday 10 December 2019.
 
 ## Key dates (tentative)
--  1 Oct: Abstract deadline
-- 31 Oct: Notice of acceptance
-- 15 Nov: Registration deadline
+
+- 15 Oct: Abstract deadline
+- 10 Nov: Notice of acceptance
+- 30 Nov: Registration deadline
 - 9-10 Dec: European Bioconductor Meeting
+
 
 ## Previous meetings
 
@@ -36,4 +38,3 @@ the programmes from the
 ## Contact
 
 More information? Contact us at contact-cbio@uclouvain.be.
-
