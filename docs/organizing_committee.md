@@ -6,8 +6,9 @@ layout: default
 
 ## Organising committee
 
-- [Laurent Gatto](https://lgatto.github.io/about/), UCLouvain,
-  Belgium.
+- [Laurent Gatto](https://lgatto.github.io/about/), UCLouvain, Belgium.
+- [Axelle Loriot](https://lgatto.github.io/cbio-who/), UCLouvain, Belgium.
+- [Lieven Clement](https://statomics.github.io/pages/about.html), Statistical Omics Group, Ghent University, Belgium.
 - [Wolfgang Huber](https://www.embl.de/research/units/genome_biology/huber/),
   European Microbiology Laboratory (EMBL), Heidelberg.
 - [Martin Morgan](https://www.roswellpark.org/martin-morgan), Roswell
