@@ -14,7 +14,7 @@ Bioconductor. The goals are to:
 
 - foster the exchange of technical expertise
 - keep contributors up to speed with the latest developments
-  coordinate any related efforts.
+- coordinate any related efforts
 
 The main conference will be on Monday 9 and Tuesday 10
 December 2019. An optional developer/user day is scheduled on the 11
@@ -22,10 +22,10 @@ December.
 
 ## Programme 
 
-The conference will include 10 invited talks (30 minute) and 18
+The conference will include 10 invited talks (30 minutes) and 18
 flashlight presentations (10 minutes - see below for details). See the
 [Registration](./registration) for details about the abstract
-submission and the [conference Schedule](./conference_schedule) for
+submission and the [conference schedule](./conference_schedule) for
 details.
 
 ## Invited speakers
@@ -40,7 +40,7 @@ details.
   Bioconductor, Roswell Park Comprehensive Cancer Center, Buffalo, USA.
 - [Andreas
   Moor](https://www.imcr.uzh.ch/en/research/Moor/Team/Moor.html),
-  Institute of Molecular Cancer Research, University of Zurich.
+  Institute of Molecular Cancer Research, University of Zurich, Switzerland.
 - [Elisabetta Mereu](https://www.cnag.crg.eu/elisabetta-mereu), Single
   Cell Genomics Team, CNAG Center for Genomic Regulation, Barcelona, Spain.
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), Institute of
@@ -78,7 +78,7 @@ in these sessions in order to keep things flowing:
 
 - There will be a warning at 9 minutes.
 - At this point the next talk will be set up on the computer, allowing
-  the next speaker to get going immediately that their time begins.
+  the next speaker to get going immediately when their time begins.
 - Flashlight talks will be interrupted (possibly mid-syllable) at the
   10 minute mark regardless of how many slides the speaker has left.
 
