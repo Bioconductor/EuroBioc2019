@@ -28,7 +28,7 @@ flashlight presentations (10 minutes - see below for details). See the
 submission and the [conference Schedule](./conference_schedule) for
 details.
 
-## Invited spreakers
+## Invited speakers
 
 - [Levi Waldron](https://waldronlab.io/), Bioconductor, CUNY Graduate
   School of Public Health and Health Policy, New York, USA.
