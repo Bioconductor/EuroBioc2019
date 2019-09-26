@@ -18,12 +18,14 @@ basis.
 
 ## Abstract submission
 
-Using the form below, you will be able to submit an abstracts for a
-flashlight talk and/or a poster. The abstract can be about the same or
-different topics. Selection of abstracts for talks and posters will be
-done by the organising committee. You will be noticed of acceptance of
-your talk and/or poster by the 1st November.
+Coming soon.
+
+<!-- Using the form below, you will be able to submit an abstracts for a -->
+<!-- flashlight talk and/or a poster. The abstract can be about the same or -->
+<!-- different topics. Selection of abstracts for talks and posters will be -->
+<!-- done by the organising committee. You will be noticed of acceptance of -->
+<!-- your talk and/or poster by the 1st November. -->
 
 
-Note that you will need to register (see above) in addition to
-submission of your abstract.
+<!-- Note that you will need to register (see above) in addition to -->
+<!-- submission of your abstract. -->
