@@ -9,3 +9,4 @@ layout: default
 - 01 Nov: Notice of acceptance
 - 20 Nov: Registration deadline
 - 9-10 Dec: European Bioconductor Meeting
+- 11 Dec: user/developer day
