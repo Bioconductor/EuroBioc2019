@@ -6,8 +6,8 @@ layout: default
 
 ## Sponsor opportunities
 
-Interested in sponsoring this conference? Please contact
-contact-cbio@uclouvain.be. Three levels are available.
+Interested in sponsoring this conference? Please contact us at
+`contact-cbio@uclouvain.be`. Three levels are available.
 
 **Gold: 6000 EUR**
 - Recognition in promotional and scheduling material

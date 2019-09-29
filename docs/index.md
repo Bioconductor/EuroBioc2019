@@ -111,6 +111,18 @@ their session, which will be coordinated by a chair (who may or may
 not be the person that suggested the topic) and a scribe.
 
 
+## Sponsors
+
+We would like to thank you sponsors for making this meeting possible.
+
+### Gold sponsor
+
+<img height="70" src="images/UCLouvain.jpg">
+
+### Bronze sponsor
+
+<img height="70" src="images/openanalytics.jpg">
+
 ## Contact
 
-More information? Contact us at contact-cbio@uclouvain.be.
+More information? Contact us at `contact-cbio@uclouvain.be`.
