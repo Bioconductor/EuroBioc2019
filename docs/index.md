@@ -121,7 +121,7 @@ We would like to thank you sponsors for making this meeting possible.
 
 ### Bronze sponsor
 
-<img height="70" src="images/openanalytics.jpg">
+<img height="70" src="images/openanalytics.png">
 
 ## Contact
 
