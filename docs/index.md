@@ -51,6 +51,7 @@ details.
   Statistical Omics Group, Ghent University, Belgium.
 - [Christine Choirat](https://scholar.harvard.edu/cchoirat/home),
   Swiss Data Science Center, Switzerland.
+- [Andrea Rau](https://www.andrea-rau.com/), INRA, GABI/PSGen, France.
 
 ## Group discussion
 
