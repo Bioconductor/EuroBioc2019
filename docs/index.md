@@ -20,7 +20,7 @@ The main conference will be on Monday 9 and Tuesday 10
 December 2019. An optional developer/user day is scheduled on the 11
 December.
 
-## Programme 
+## Programme
 
 The conference will include 10 invited talks (30 minutes) and 18
 flashlight presentations (10 minutes - see below for details). See the
@@ -117,11 +117,16 @@ We would like to thank our sponsors for making this meeting possible.
 
 ### Gold sponsor
 
-<img height="70" src="images/UCLouvain.jpg">
+<img height="80" src="images/UCLouvain.jpg">
 
 ### Bronze sponsor
 
-<img height="70" src="images/openanalytics.png">
+<img height="60" src="images/openanalytics.png">
+<img height="70" src="images/vib-elixir.png">
+
+### Other
+
+<img height="50" src="images/rstudio.png">
 
 ## Contact
 
