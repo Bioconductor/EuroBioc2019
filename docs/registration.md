@@ -6,7 +6,8 @@ layout: default
 
 ## Registrations
 
-Registrations and abstract submissions will open soon.
+Registration is now open:
+[https://eurobioc-2019.eventbrite.co.uk](https://eurobioc-2019.eventbrite.co.uk)
 
 - Students: 50 euros
 - Faculty: 100 euros
@@ -14,7 +15,6 @@ Registrations and abstract submissions will open soon.
 
 We will accept up to 120 participants on a first come first served
 basis.
-
 
 ## Abstract submission
 
