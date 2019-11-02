@@ -8,8 +8,8 @@
 | 9:30 - 10:00  | Invited talk 1: Updates from the Bioconductor project, Martin Morgan |
 | 10:00 - 10:30 | Invited talk 2: Andrea Rau                                           |
 | 10:30 - 11:00 | Break + poster session                                               |
-| 11:00 - 11:30 | Flashlight session 1 (6 x 10 minutes)                                |
-| 11:30 - 12:30 | Invited talk 3: Vince Carey                                          |
+| 11:00 - 12:00 | Flashlight session 1 (6 x 10 minutes)                                |
+| 12:00 - 12:30 | Invited talk 3: Vince Carey                                          |
 | 12:30 - 13:30 | Lunch  + poster session                                              |
 | 13:30 - 14:30 | Flashlight session 2 (6 x 10 minutes)                                |
 | 14:30 - 15:00 | Invited talk 4: Levi Waldron                                         |
