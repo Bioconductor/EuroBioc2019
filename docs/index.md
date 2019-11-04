@@ -123,7 +123,8 @@ We would like to thank our sponsors for making this meeting possible.
 ### Bronze sponsor
 
 <img height="60" src="images/openanalytics.png">
-<img height="70" src="images/vib-elixir.png">
+
+<img height="70" src="images/elixirbe.jpg"><img height="70" src="images/vib.png">
 
 ### Other
 
