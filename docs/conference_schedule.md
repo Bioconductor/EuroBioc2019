@@ -8,21 +8,22 @@
 | 9:30 - 10:00  | Invited talk 1: Updates from the Bioconductor project, Martin Morgan |
 | 10:00 - 10:30 | Invited talk 2: Andrea Rau                                           |
 | 10:30 - 11:00 | Break + poster session                                               |
-| 11:00 - 12:00 | Flashlight session 1 (6 x 10 minutes)                                |
+| 11:00 - 12:00 | Flashlight session 1 (7 x 8 minutes)                                 |
 | 12:00 - 12:30 | Invited talk 3: Vince Carey                                          |
 | 12:30 - 13:30 | Lunch  + poster session                                              |
-| 13:30 - 14:30 | Flashlight session 2 (6 x 10 minutes)                                |
+| 13:30 - 14:30 | Flashlight session 2 (7 x 8 minutes)                                 |
 | 14:30 - 15:00 | Invited talk 4: Levi Waldron                                         |
 | 15:00 - 15:30 | Invited talk 5: Lieven Clement                                       |
 | 15:30 - 16:00 | Coffee break + poster session                                        |
 | 16:00 - 16:30 | Invited talk 6: Christine Choirat                                    |
-| 16:30 - 17:00 | Presentation of group activities and wrap-up.                        |
+| 16:30 - 17:02 | Flashlight session 3 (4 x 8 minutes)                                 |
+| 17:02 - 17:15 | Presentation of group activities and wrap-up.                        |
 
 Evening: social dinner
 
 ### Tuesday 10 December
 
-| 9:00 - 10:00  | Flashlight session 3 (6 x 10 minutes)  |
+| 9:00 - 10:00  | Flashlight session 4 (7 x 8 minutes)   |
 | 10:00 - 10:30 | Invited talk 7: Ewa Szczurek           |
 | 10:30 - 11:00 | Break + poster session                 |
 | 11:00 - 12:30 | Group activities                       |

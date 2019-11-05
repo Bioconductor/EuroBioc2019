@@ -22,8 +22,8 @@ December.
 
 ## Programme
 
-The conference will include 10 invited talks (30 minutes) and 18
-flashlight presentations (10 minutes - see below for details). See the
+The conference will include 10 invited talks (30 minutes) and
+flashlight presentations (8 minutes - see below for details). See the
 [Registration](./registration) for details about the abstract
 submission and the [conference schedule](./conference_schedule) for
 details.
@@ -73,21 +73,20 @@ Current topics include.
 
 Flashlights are intended to be short presentations covering a single
 topic e.g. a new package or a particular technical problem you have
-encountered. Each talk has been allotted 10 minutes and presenters
+encountered. Each talk has been allotted 8 minutes and presenters
 should aim for approximately 6 slides. The following rules will apply
 in these sessions in order to keep things flowing:
 
-- There will be a warning at 9 minutes.
+- There will be a warning at 7 minutes.
 - At this point the next talk will be set up on the computer, allowing
   the next speaker to get going immediately when their time begins.
 - Flashlight talks will be interrupted (possibly mid-syllable) at the
-  10 minute mark regardless of how many slides the speaker has left.
+  8 minute mark regardless of how many slides the speaker has left.
 
 Speakers, please share you slides with your session chair in the
 tea/lunch break preceding your session. Presentations will be
 transferred to a single computer to ensure the smooth running of the
 session. It's safest to use a PDF.
-
 
 ## User/developer sessions (free, optional)
 
