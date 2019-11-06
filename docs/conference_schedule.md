@@ -5,7 +5,7 @@
 
 | 9:00 - 9:15   | Registration                                                                                                     |
 | 9:15 - 9:30   | Welcome and introductions                                                                                        |
-| 9:30 - 10:00  | Invited talk 1: Updates from the Bioconductor project, Martin Morgan                                             |
+| 9:30 - 10:00  | Invited talk 1: Martin Morgan - *The Bioconductor Project: Updates and Directions*                               |
 | 10:00 - 10:30 | Invited talk 2: Andrea Rau - *Individualized multi-omic pathway deviation scores using multiple factor analysis* |
 | 10:30 - 11:00 | Break + poster session                                                                                           |
 | 11:00 - 12:00 | Flashlight session 1 (7 x 8 minutes)                                                                             |
