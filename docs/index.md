@@ -41,7 +41,7 @@ details.
 - [Andreas
   Moor](https://www.imcr.uzh.ch/en/research/Moor/Team/Moor.html),
   Institute of Molecular Cancer Research, University of Zurich, Switzerland.
-- [Elisabetta Mereu](https://www.cnag.crg.eu/elisabetta-mereu), Single
+- [Elisabetta Mereu](https://elisabettamereu.netlify.com/), Single
   Cell Genomics Team, CNAG Center for Genomic Regulation, Barcelona, Spain.
 - [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/), Institute of
   Informatics, University of Warsaw, Poland.
@@ -63,7 +63,6 @@ the conference. Participants will choose which group discussion to
 contribute to at the beginning of the second day.
 
 Current topics include.
-
 - The Bioconductor project: getting started and moving from user to
   developer/contributor. Group moderator: Martin Morgan.
 - Single cell RNA-seq. Group moderator: Davide Risso.
