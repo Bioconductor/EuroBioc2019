@@ -15,7 +15,7 @@
 | 14:30 - 15:00 | Invited talk 4: Levi Waldron - *Multi'omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma' |
 | 15:00 - 15:30 | Invited talk 5: Lieven Clement                                                                                                     |
 | 15:30 - 16:00 | Coffee break + poster session                                                                                                      |
-| 16:00 - 16:30 | Invited talk 6: Christine Choirat                                                                                                  |
+| 16:00 - 16:30 | Invited talk 6: Christine Choirat - *Enabling Practical Reproducibility With the RENKU Platform*                                                                                                  |
 | 16:30 - 17:02 | Flashlight session 3 (4 x 8 minutes)                                                                                               |
 | 17:02 - 17:15 | Presentation of group activities and wrap-up.                                                                                      |
 
