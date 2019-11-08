@@ -55,17 +55,24 @@ details.
 
 ## Group discussion
 
-The group discussions will be based on a invited talk session, and
-will give the participants the opportunity to continue the discussion
-under the moderation of the speaker and other experts present at the
+The group discussions will be based on a invited talk, and will give
+the participants the opportunity to continue the discussion under the
+moderation of the speaker and other experts present at the
 conference. We will have around 5 topics that will be defined before
 the conference. Participants will choose which group discussion to
 contribute to at the beginning of the second day.
 
-Current topics include.
+Current topics include:
+
 - The Bioconductor project: getting started and moving from user to
   developer/contributor. Group moderator: Martin Morgan.
-- Single cell RNA-seq. Group moderator: Davide Risso.
+
+- Single cell assays (including RNA-seq). Group moderator: Davide Risso.
+
+- Containers and cloud computing for bioinformatics. Group moderator:
+  Christine Choirat.
+
+- Multi-omics data integration. Group moderator: Levi Waldron.
 
 
 ## Flashlight sessions
