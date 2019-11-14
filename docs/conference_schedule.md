@@ -31,7 +31,7 @@ Evening: social dinner
 | 13:30 - 14:00 | Group activities presentations                                                                                 |
 | 14:00 - 14:30 | Invited talk 8: Davide Risso                                                                                   |
 | 14:30 - 15:00 | Invited talk 9: Elisabetta Mereu - *Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects* |
-| 15:00 - 15:30 | Invited talk 10: Andreas Moor                                                                                  |
+| 15:00 - 15:30 | Invited talk 10: Andreas Moor - *Spatially resolved transcriptomics in mammalian tissues*                      |
 | 15:30 - 16:00 | Wrap-up and closing of conference                                                                              |
 | 16:00 - 17:00 | Preparation of user/developer sessions                                                                         |
 
