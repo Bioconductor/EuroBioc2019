@@ -1,4 +1,4 @@
-## Tentative programme
+# Tentative programme
 
 ### Monday 9 December
 
@@ -12,10 +12,10 @@
 | 12:00 - 12:30 | Invited talk 3: Vince Carey - *Software ecosystem concepts for federated genomic analysis*                                         |
 | 12:30 - 13:30 | Lunch  + poster session                                                                                                            |
 | 13:30 - 14:30 | Flashlight session 2 (7 x 8 minutes)                                                                                               |
-| 14:30 - 15:00 | Invited talk 4: Levi Waldron - *Multi'omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma' |
-| 15:00 - 15:30 | Invited talk 5: Lieven Clement                                                                                                     |
+| 14:30 - 15:00 | Invited talk 4: Levi Waldron - *Multi'omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma* |
+| 15:00 - 15:30 | Invited talk 5: Lieven Clement - *The pitfalls of summarisation and imputation on label free mass spectrometry based proteomics*   |
 | 15:30 - 16:00 | Coffee break + poster session                                                                                                      |
-| 16:00 - 16:30 | Invited talk 6: Christine Choirat - *Enabling Practical Reproducibility With the RENKU Platform*                                                                                                  |
+| 16:00 - 16:30 | Invited talk 6: Christine Choirat - *Enabling Practical Reproducibility With the RENKU Platform*                                   |
 | 16:30 - 17:02 | Flashlight session 3 (4 x 8 minutes)                                                                                               |
 | 17:02 - 17:15 | Presentation of group activities and wrap-up.                                                                                      |
 
