@@ -4,6 +4,10 @@ layout: default
 
 {% include header.md %}
 
+## Social media policy
+
+Images and content from talks, workshops, and posters may be shared publicly through social media. Talks may be recorded by the organizers and published via the Bioconductor Youtube channel.
+
 ## Code of conduct
 
 This code of conduct is adapted from the [Bioc2019 code of conduct](http://bioc2019.bioconductor.org/code_of_conduct). 
