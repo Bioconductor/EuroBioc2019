@@ -85,3 +85,32 @@ Evening: social dinner
 * Pierre-Luc Germain - *A framework for pipeline benchmarking and its application to scRNAseq clustering*
 
 ## Posters
+
+- Chong Tang: *msdata2: Lable-Free Proteomics data for Benchmarking*
+- Christophe Vanderaa: *scpdata: a data package for single-cell proteomics*
+- Gibb Sebastian: *Spectra: a flexible infrastructure for mass spectrometry data*
+- Teun van den Brand: *GENOVA: Explore the Hi-Cs*
+- Tore Bleckwehl: *Single cell methods for regulatory elements*
+- Mireia Ramos-Rodríguez: *UMI4Cats: an R package for analyzing UMI-4C
+  contact data*
+- Liesbeth François: *Insights into biological mechanisms of an in
+  vitro epilepsy model by leveraging gene coexpression modules*
+- Aliaksandra Kakoichankava: *Deconvolution of transcriptomic data
+  shows biologically and clinically relevant signals in pancreatic
+  tumors*
+- Tobias Kockmann: *Direct access to mass spectrometry data in R*
+- Laurent Gatto: *The R for Mass Spectrometry Initiative*
+- Katarzyna Górczak: *Transcriptomics data visualization*
+- Pierre Luc Germain: *A framework for pipeline benchmarking and its
+  application to scRNAseq clustering*
+- Michela Pasetto: *transcriptomicsTemplates: a templates for the
+  analysis of transcriptomics data*
+- Sara Fonseca Costa: *Expression calls from RNA-Seq data using
+  BgeeCall R package*
+- Nathalie Pochet: *AMARETTO for network biomedicine: linking
+  diseases, drivers and drugs via multi-omics, clinical, imaging and
+  perturbation data fusion*
+- Theo Killian: *Exploiting the Depmap cancer dependency data using
+  the depmap R package*
+- Mike Smith: *Benchmarking compression filters for HDF5 backed
+  matrices*
