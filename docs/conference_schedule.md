@@ -8,22 +8,22 @@
 | 9:30 - 10:00  | Invited talk 1: Martin Morgan - *The Bioconductor Project: Updates and Directions*                                                 |
 | 10:00 - 10:30 | Invited talk 2: Andrea Rau - *Individualized multi-omic pathway deviation scores using multiple factor analysis*                   |
 | 10:30 - 11:00 | Break + poster session                                                                                                             |
-| 11:00 - 12:00 | [Flashlight session 1](#Session-1) (7 x 8 minutes)                                                                                   |
+| 11:00 - 12:00 | [Flashlight session 1](#session-1) (7 x 8 minutes)                                                                                   |
 | 12:00 - 12:30 | Invited talk 3: Vince Carey - *Software ecosystem concepts for federated genomic analysis*                                         |
 | 12:30 - 13:30 | Lunch  + poster session                                                                                                            |
-| 13:30 - 14:30 | [Flashlight session 2](#Session-2) (7 x 8 minutes)                                                                                               |
+| 13:30 - 14:30 | [Flashlight session 2](#session-2) (7 x 8 minutes)                                                                                               |
 | 14:30 - 15:00 | Invited talk 4: Levi Waldron - *Multi'omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma* |
 | 15:00 - 15:30 | Invited talk 5: Lieven Clement - *The pitfalls of summarisation and imputation on label free mass spectrometry based proteomics*   |
 | 15:30 - 16:00 | Coffee break + poster session                                                                                                      |
 | 16:00 - 16:30 | Invited talk 6: Christine Choirat - *Enabling Practical Reproducibility With the RENKU Platform*                                   |
-| 16:30 - 17:02 | [Flashlight session 3](#Session-3) (4 x 8 minutes)                                                                                               |
+| 16:30 - 17:02 | [Flashlight session 3](#session-3) (4 x 8 minutes)                                                                                               |
 | 17:02 - 17:15 | Presentation of group activities and wrap-up.                                                                                      |
 
 Evening: social dinner
 
 ### Tuesday 10 December
 
-| 9:00 - 10:00  | [Flashlight session 4](#Session-4) (7 x 8 minutes)                                                                           |
+| 9:00 - 10:00  | [Flashlight session 4](#session-4) (7 x 8 minutes)                                                                           |
 | 10:00 - 10:30 | Invited talk 7: Ewa Szczurek                                                                                   |
 | 10:30 - 11:00 | Break + poster session                                                                                         |
 | 11:00 - 12:30 | Group activities                                                                                               |
