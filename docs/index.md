@@ -125,11 +125,15 @@ We would like to thank our sponsors for making this meeting possible.
 
 <img height="80" src="images/UCLouvain.jpg">
 
+<img height="80" src="images/GSK.jpg">
+
 ### Bronze sponsor
 
 <img height="60" src="images/openanalytics.png">
 
 <img height="70" src="images/elixirbe.jpg"><img height="70" src="images/vib.png">
+
+<img height="60" src="images/UCB.png">
 
 ### Other
 
