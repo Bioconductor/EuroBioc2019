@@ -70,7 +70,7 @@ Evening: social dinner
 ### Session 3
 
 * Johannes Rainer - *Flexible infrastructure for mass spectrometry data*
-* Tobias Kockmann - *Direct access to mass spectrometry data in R*
+* Christian Panse - *Direct access to mass spectrometry data in R*
 * Oliver Crook - *Uncertainty quantification for dynamic spatial proteomics experiments*
 * Nils Kurzawa - *Robust statistical inference of small molecule-protein interactions from 2D thermal proteome profiles reveals off-targets of epigenetic drugs*
 
@@ -98,7 +98,7 @@ Evening: social dinner
 - Aliaksandra Kakoichankava: *Deconvolution of transcriptomic data
   shows biologically and clinically relevant signals in pancreatic
   tumors*
-- Tobias Kockmann: *Direct access to mass spectrometry data in R*
+- Tobias Kockmann & Christian Panse: *Direct access to mass spectrometry data in R - the rawR package*
 - Laurent Gatto: *The R for Mass Spectrometry Initiative*
 - Katarzyna Górczak: *Transcriptomics data visualization*
 - Pierre Luc Germain: *A framework for pipeline benchmarking and its
