@@ -114,3 +114,5 @@
   the depmap R package*
 - Mike Smith: *Benchmarking compression filters for HDF5 backed
   matrices*
+- Petr Nazarov: *consICA: a package for parallel consensus ICA of
+  multi-omics data and interpretation of the results*
