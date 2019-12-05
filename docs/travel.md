@@ -14,11 +14,12 @@ centraux* of the Woluwé campus of the UCLouvain.
 The university campus is easily accessible by tube (see map below),
 metro line 1, direction *Stockel/Stokkel*, metre metro *Alma*.
 
-![Metro STIB]("./images/metro.jpg")
+<img src="./images/metro.jpg" alt = "STIB tube network", width = "600px" >
 
 The *Auditoire Maisin* is then a 3 - 4 minutes walk from the metro
 station. The map below also show the Tangla hotel and the Hof Ter
 Musschen restaurant that will host us for the social dinner on Monday
 evening.
 
-![Campus Woluwé, UCLouvain]("./images/woluwe.jpg")
+<img src="./images/woluwe.jpg" alt = "Campus Woluwé, UCLouvain", width = "600px" >
+
