@@ -119,7 +119,8 @@ not be the person that suggested the topic) and a scribe.
 
 ## Sponsors
 
-We would like to thank our sponsors for making this meeting possible.
+We would like to acknowledge the financial support of our sponsors for
+making this event possible.
 
 ### Gold sponsor
 
