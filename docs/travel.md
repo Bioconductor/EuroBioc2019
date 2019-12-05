@@ -15,12 +15,12 @@ The university campus is easily accessible from the major train
 stations of international Zaventem airport by tube (see map below),
 metro line 1, direction *Stockel/Stokkel*, station *Alma*.
 
-<img src="./images/metro.jpg" alt="STIB tube network" width="750"/>
+<img src="./images/metro.jpg" alt="STIB tube network" width="800"/>
 
 The *Auditoire Maisin* is then a 3 - 4 minutes walk from the metro
 station. The map below also show the Tangla hotel and the Hof Ter
 Musschen restaurant that will host us for the social dinner on Monday
 evening.
 
-<img src="./images/woluwe.jpg" alt="Campus Woluwé UCLouvain" width="750"/>
+<img src="./images/woluwe.jpg" alt="Campus Woluwé UCLouvain" width="800"/>
 
