@@ -67,7 +67,8 @@ Current topics include:
 - The Bioconductor project: getting started and moving from user to
   developer/contributor. Group moderator: Martin Morgan.
 
-- Single cell assays (including RNA-seq). Group moderator: Davide Risso.
+- Single cell assays (including RNA-seq). Group moderator: Davide
+  Risso and Dries De Maeyer.
 
 - Containers and cloud computing for bioinformatics. Group moderator:
   Christine Choirat.
