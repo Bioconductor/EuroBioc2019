@@ -128,6 +128,8 @@ making this event possible.
 
 <img height="80" src="images/GSK.jpg">
 
+<img height="80" src="images/janssen.png">
+
 ### Bronze sponsor
 
 <img height="60" src="images/openanalytics.png">
