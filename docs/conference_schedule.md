@@ -1,6 +1,6 @@
-# Tentative programme
+# Conference programme
 
-### Monday 9 December
+## Monday 9 December
 
 | 9:00 - 9:15   | Registration                                                                                                                       |
 | 9:15 - 9:30   | Welcome and introductions                                                                                                          |
@@ -22,8 +22,10 @@
 
 | 18:30 - 21:30 | Dinner at the [Hof ter Musschen](https://www.hoftermusschen.be/en/) (located at walking distance from the conference venue) |
 
+The conference dinner is sponsored by GSK. 
 
-### Tuesday 10 December
+
+## Tuesday 10 December
 
 | 9:00 - 10:00  | [Flashlight session 4](#session-4) (7 x 8 minutes)                                                                |
 | 10:00 - 10:30 | Invited talk 7: Ewa Szczurek - *Linear effects models of signaling pathways from combinatorial perturbation data* |
@@ -37,7 +39,7 @@
 | 15:30 - 16:00 | Wrap-up and closing of conference                                                                                 |
 | 16:00 - 17:00 | Preparation of user/developer sessions                                                                            |
 
-### Wednesday 11 December (optional)
+## Wednesday 11 December (optional)
 
 | 9:00 - 10:30  | [User/developer sessions](https://github.com/bioconductor/eurobioc2019/issues) |
 | 10:30 - 11:00 | Break                                                                          |
@@ -47,6 +49,7 @@
 | 15:00 - 16:00 | Sessions feedback and wrap-up                                                  |
 
 ## Flashlight talks
+
 ### Session 1
 
 * Witold Wolski - *fgczgseaora: unifying methods on gene set enrichment*
