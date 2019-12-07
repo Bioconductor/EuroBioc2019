@@ -58,29 +58,33 @@ details.
 The group discussions will be based on a invited talk, and will give
 the participants the opportunity to continue the discussion under the
 moderation of the speaker and other experts present at the
-conference. We will have around 5 topics that will be defined before
-the conference. Participants will choose which group discussion to
-contribute to at the beginning of the second day.
+conference. We have around 4 topics (see below); participants will
+choose which group discussion to contribute to at the beginning of the
+second day.
 
-Current topics include:
+The group discussion topics are:
 
 - The Bioconductor project: getting started and moving from user to
-  developer/contributor. Group moderator: Martin Morgan.
+  developer/contributor. Group moderator: Martin Morgan (Bioconductor,
+  Roswell Park Comprehensive Cancer Center).
 
 - Single cell assays (including RNA-seq). Group moderator: Davide
-  Risso and Dries De Maeyer.
+  Risso (University of Padova) and Dries De Maeyer (Janssen
+  Pharmaceutica NV).
 
-- Containers and cloud computing for bioinformatics. Group moderator:
-  Christine Choirat.
+- Containers and cloud computing for bioinformatics. Group moderators:
+  Christine Choirat (Swiss Data Science Center) and Vince Carey
+  (Bioconductor, Harvard Medical School).
 
-- Multi-omics data integration. Group moderator: Levi Waldron.
+- Multi-omics data integration. Group moderator: Levi Waldron (City
+  University of New York).
 
 
 ## Flashlight sessions
 
 Flashlights are intended to be short presentations covering a single
 topic e.g. a new package or a particular technical problem you have
-encountered. Each talk has been allotted 8 minutes and presenters
+encountered. Each talk has been allotted **8 minutes** and presenters
 should aim for approximately 6 slides. The following rules will apply
 in these sessions in order to keep things flowing:
 
@@ -143,6 +147,3 @@ making this event possible.
 
 <img height="50" src="images/rstudio.png">
 
-## Contact
-
-More information? Contact us at `contact-cbio@uclouvain.be`.
