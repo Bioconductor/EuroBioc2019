@@ -65,7 +65,7 @@ The conference dinner is sponsored by GSK.
 * Katarzyna Gorczak - *Transcriptomics data visualization*
 * Ruizhu Huang - *Visualizing TreeSummarizedExperiment objects and tree climbing with treeclimbR*
 * Michela Pasetto - *transcriptomicsTemplates: a template for the analysis of transcriptomics data*
-* Simone Tiberi - *BANDITS: Bayesian differential splicing accounting for sample-to-sample variability and mapping uncertainty*
+* Axelle Loriot - *Genome-wide approach to identify new transcripts induced by DNA hypomethylation in tumors*
 * Sara Fonseca Costa - *Expression calls from RNA-seq using BgeeCall R package*
 * Katharina Hembach - *exondiscovery: prediction of unannotated exons from splice-junction RNA-seq reads*
 * Robert Castelo - *GenomicScores: latest developments and future challenges*
@@ -82,7 +82,7 @@ The conference dinner is sponsored by GSK.
 * Dario Righelli - *Epigenomic enrichment analysis using Bioconductor*
 * Dania Machlab - *monaLisa: MOtif aNAlysis with Lisa*
 * Stephany Orjuela - *DAMEfinder: A method to screen for changes in allele-specific methylation*
-* Axelle Loriot - *Genome-wide approach to identify new transcripts induced by DNA hypomethylation in tumors*
+* Simone Tiberi - *BANDITS: Bayesian differential splicing accounting for sample-to-sample variability and mapping uncertainty*
 * Almut Luetge - *Explore batch effects and data integration with CellMixS*
 * Jeroen Gilis - *Scalable differential transcript usage analysis for single-cell applications*
 * Pierre-Luc Germain - *A framework for pipeline benchmarking and its application to scRNAseq clustering*
