@@ -4,7 +4,7 @@ layout: default
 
 {% include header.md %}
 
-## Key dates (tentative)
+## Key dates
 - 30 Oct: Abstract submission deadline
 - 05 Nov: Notice of acceptance
 - 25 Nov: Poster submission deadline

@@ -22,7 +22,7 @@
 
 | 18:30 - 21:30 | Dinner at the [Hof ter Musschen](https://www.hoftermusschen.be/en/) (located at walking distance from the conference venue) |
 
-The conference dinner is sponsored by GSK. 
+The conference dinner is sponsored by GSK.
 
 
 ## Tuesday 10 December
@@ -52,6 +52,8 @@ The conference dinner is sponsored by GSK.
 
 ### Session 1
 
+Chair: Charlotte Soneson
+
 * Witold Wolski - *fgczgseaora: unifying methods on gene set enrichment*
 * Federico Marini - *GeneTonic: combining components of transcriptome analyses for efficient exploration*
 * Ozan Cinar - *poolr: An extensive set of methods for gene-based testing*
@@ -61,6 +63,8 @@ The conference dinner is sponsored by GSK.
 * Anne Bras - *flowCore - lossless compression*
 
 ### Session 2
+
+Chair: Laurent Gatto
 
 * Katarzyna Gorczak - *Transcriptomics data visualization*
 * Ruizhu Huang - *Visualizing TreeSummarizedExperiment objects and tree climbing with treeclimbR*
@@ -72,12 +76,16 @@ The conference dinner is sponsored by GSK.
 
 ### Session 3
 
+Chair:
+
 * Johannes Rainer - *Flexible infrastructure for mass spectrometry data*
 * Christian Panse - *Direct access to mass spectrometry data in R*
 * Oliver Crook - *Uncertainty quantification for dynamic spatial proteomics experiments*
 * Nils Kurzawa - *Robust statistical inference of small molecule-protein interactions from 2D thermal proteome profiles reveals off-targets of epigenetic drugs*
 
 ### Session 4
+
+Chair:
 
 * Dario Righelli - *Epigenomic enrichment analysis using Bioconductor*
 * Dania Machlab - *monaLisa: MOtif aNAlysis with Lisa*
