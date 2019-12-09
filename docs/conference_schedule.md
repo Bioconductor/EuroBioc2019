@@ -85,7 +85,7 @@ Chair: Elisabetta Mereu
 
 ### Session 4
 
-Chair:
+Chair: Andrea Rau
 
 * Dario Righelli - *Epigenomic enrichment analysis using Bioconductor*
 * Dania Machlab - *monaLisa: MOtif aNAlysis with Lisa*
