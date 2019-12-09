@@ -28,12 +28,12 @@ The conference dinner is sponsored by GSK.
 ## Tuesday 10 December
 
 | 9:00 - 10:00  | [Flashlight session 4](#session-4) (7 x 8 minutes)                                                                |
-| 10:00 - 10:30 | Invited talk 7: Ewa Szczurek - *Linear effects models of signaling pathways from combinatorial perturbation data* |
+| 10:00 - 10:30 | Invited talk 7: Davide Risso - *Efficient and scalable analysis of single-cell RNA-seq data using Bioconductor*   |
 | 10:30 - 11:00 | Break + [poster session](#posters)                                                                                |
 | 11:00 - 12:30 | Group activities                                                                                                  |
 | 12:30 - 13:30 | Lunch + [poster session](#posters)                                                                                |
 | 13:30 - 14:00 | Group activities presentations                                                                                    |
-| 14:00 - 14:30 | Invited talk 8: Davide Risso - *Efficient and scalable analysis of single-cell RNA-seq data using Bioconductor*   |
+| 14:00 - 14:30 | Invited talk 8: Ewa Szczurek - *Linear effects models of signaling pathways from combinatorial perturbation data* |
 | 14:30 - 15:00 | Invited talk 9: Elisabetta Mereu - *Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects*    |
 | 15:00 - 15:30 | Invited talk 10: Andreas Moor - *Spatially resolved transcriptomics in mammalian tissues*                         |
 | 15:30 - 16:00 | Wrap-up and closing of conference                                                                                 |
