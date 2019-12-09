@@ -76,7 +76,7 @@ Chair: Laurent Gatto
 
 ### Session 3
 
-Chair:
+Chair: Elisabetta Mereu
 
 * Johannes Rainer - *Flexible infrastructure for mass spectrometry data*
 * Christian Panse - *Direct access to mass spectrometry data in R*
