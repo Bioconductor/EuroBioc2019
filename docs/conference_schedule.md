@@ -28,7 +28,7 @@ The conference dinner is sponsored by GSK.
 ## Tuesday 10 December
 
 | 9:00 - 10:00  | [Flashlight session 4](#session-4) (7 x 8 minutes)                                                                |
-| 10:00 - 10:30 | Invited talk 7: Davide Risso - [Efficient and scalable analysis of single-cell RNA-seq data using Bioconductor](https://docs.google.com/presentation/d/13GIIG_vO0Ej-FNwRkrUUc9HYY-GixWL3uCLC4qccDWc/edit?usp=sharing)   |
+| 10:00 - 10:30 | Invited talk 7: Davide Risso - [Efficient and scalable clustering of single-cell RNA-seq data using Bioconductor](https://docs.google.com/presentation/d/13GIIG_vO0Ej-FNwRkrUUc9HYY-GixWL3uCLC4qccDWc/edit?usp=sharing)   |
 | 10:30 - 11:00 | Break + [poster session](#posters)                                                                                |
 | 11:00 - 12:30 | Group activities                                                                                                  |
 | 12:30 - 13:30 | Lunch + [poster session](#posters)                                                                                |
