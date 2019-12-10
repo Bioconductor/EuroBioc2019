@@ -34,7 +34,7 @@ The conference dinner is sponsored by GSK.
 | 12:30 - 13:30 | Lunch + [poster session](#posters)                                                                                |
 | 13:30 - 14:00 | Group activities presentations                                                                                    |
 | 14:00 - 14:30 | Invited talk 8: Ewa Szczurek - *Linear effects models of signaling pathways from combinatorial perturbation data* |
-| 14:30 - 15:00 | Invited talk 9: Elisabetta Mereu - *Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects*    |
+| 14:30 - 15:00 | Invited talk 9: Elisabetta Mereu - [Benchmarking Single-Cell RNA Sequencing Protocols for Cell Atlas Projects](./slides/Invited/elisabetta-eurobioc2019.pdf)    |
 | 15:00 - 15:30 | Invited talk 10: Andreas Moor - *Spatially resolved transcriptomics in mammalian tissues*                         |
 | 15:30 - 16:00 | Wrap-up and closing of conference                                                                                 |
 | 16:00 - 17:00 | Preparation of user/developer sessions                                                                            |
