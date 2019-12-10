@@ -8,11 +8,11 @@
 | 10:00 - 10:30 | Invited talk 2: Andrea Rau - *Individualized multi-omic pathway deviation scores using multiple factor analysis*                   |
 | 10:30 - 11:00 | Break + [poster session](#posters)                                                                                                 |
 | 11:00 - 12:00 | [Flashlight session 1](#session-1) (7 x 8 minutes)                                                                                 |
-| 12:00 - 12:30 | Invited talk 3: Vince Carey - *Software ecosystem concepts for federated genomic analysis*                                         |
+| 12:00 - 12:30 | Invited talk 3: Vince Carey - [Software ecosystem concepts for federated genomic analysis](https://docs.google.com/presentation/d/1LMR3upAQZMdfAP4-UAl6-UMU6udA_NkqRMKsnM1jPfs/edit#slide=id.p)                                         |
 | 12:30 - 13:30 | Lunch  + [poster session](#posters)                                                                                                |
 | 13:30 - 14:30 | [Flashlight session 2](#session-2) (7 x 8 minutes)                                                                                 |
 | 14:30 - 15:00 | Invited talk 4: Levi Waldron - *Multi'omic analysis of subtype evolution and heterogeneity in high-grade serous ovarian carcinoma* |
-| 15:00 - 15:30 | Invited talk 5: Lieven Clement - *The pitfalls of summarisation and imputation on label free mass spectrometry based proteomics*   |
+| 15:00 - 15:30 | Invited talk 5: Lieven Clement - [The pitfalls of summarisation and imputation on label free mass spectrometry based proteomics](./slides/Invited/20191209_LievenClement_MSqRob_euroBioC2019.pdf)   |
 | 15:30 - 16:00 | Coffee break + [poster session](#posters)                                                                                          |
 | 16:00 - 16:30 | Invited talk 6: Christine Choirat - *Enabling Practical Reproducibility With the RENKU Platform*                                   |
 | 16:30 - 17:02 | [Flashlight session 3](#session-3) (4 x 8 minutes)                                                                                 |
@@ -28,7 +28,7 @@ The conference dinner is sponsored by GSK.
 ## Tuesday 10 December
 
 | 9:00 - 10:00  | [Flashlight session 4](#session-4) (7 x 8 minutes)                                                                |
-| 10:00 - 10:30 | Invited talk 7: Davide Risso - *Efficient and scalable analysis of single-cell RNA-seq data using Bioconductor*   |
+| 10:00 - 10:30 | Invited talk 7: Davide Risso - [Efficient and scalable analysis of single-cell RNA-seq data using Bioconductor](https://docs.google.com/presentation/d/13GIIG_vO0Ej-FNwRkrUUc9HYY-GixWL3uCLC4qccDWc/edit?usp=sharing)   |
 | 10:30 - 11:00 | Break + [poster session](#posters)                                                                                |
 | 11:00 - 12:30 | Group activities                                                                                                  |
 | 12:30 - 13:30 | Lunch + [poster session](#posters)                                                                                |
