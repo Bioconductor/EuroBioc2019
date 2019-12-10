@@ -87,13 +87,13 @@ Chair: Elisabetta Mereu
 
 Chair: Andrea Rau
 
-* Dario Righelli - *Epigenomic enrichment analysis using Bioconductor*
-* Dania Machlab - *monaLisa: MOtif aNAlysis with Lisa*
-* Stephany Orjuela - *DAMEfinder: A method to screen for changes in allele-specific methylation*
-* Simone Tiberi - *BANDITS: Bayesian differential splicing accounting for sample-to-sample variability and mapping uncertainty*
-* Almut Luetge - *Explore batch effects and data integration with CellMixS*
-* Jeroen Gilis - *Scalable differential transcript usage analysis for single-cell applications*
-* Pierre-Luc Germain - *A framework for pipeline benchmarking and its application to scRNAseq clustering*
+* Dario Righelli - [Epigenomic enrichment analysis using Bioconductor](./slides/Flashlight4/Righelli_Bioc2019.pdf)
+* Dania Machlab - [monaLisa: MOtif aNAlysis with Lisa](./slides/Flashlight4/monaLisa_daniaMachlab.pdf)
+* Stephany Orjuela - [DAMEfinder: A method to screen for changes in allele-specific methylation](./slides/Flashlight4/StephanyOrjuela_DAMEfinder.pdf)
+* Simone Tiberi - [BANDITS: Bayesian differential splicing accounting for sample-to-sample variability and mapping uncertainty](./slides/Flashlight4/Tiberi-Robinson_BANDITS.pdf)
+* Almut Luetge - [Explore batch effects and data integration with CellMixS](./slides/Flashlight4/CellMixS.pdf)
+* Jeroen Gilis - [Scalable differential transcript usage analysis for single-cell applications](./slides/Flashlight4/bioc_Jeroen_Gilis.pdf)
+* Pierre-Luc Germain - [A framework for pipeline benchmarking and its application to scRNAseq clustering](./slides/Flashlight4/PierreLucGermain_pipeComp.pdf)
 
 ## Posters
 
