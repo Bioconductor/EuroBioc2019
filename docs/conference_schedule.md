@@ -78,10 +78,10 @@ Chair: Laurent Gatto
 
 Chair: Elisabetta Mereu
 
-* Johannes Rainer - *Flexible infrastructure for mass spectrometry data*
-* Christian Panse - *Direct access to mass spectrometry data in R*
-* Oliver Crook - *Uncertainty quantification for dynamic spatial proteomics experiments*
-* Nils Kurzawa - *Robust statistical inference of small molecule-protein interactions from 2D thermal proteome profiles reveals off-targets of epigenetic drugs*
+* Johannes Rainer - [Flexible infrastructure for mass spectrometry data](./slides/Flashlight3/Spectra.html)
+* Christian Panse - [Direct access to mass spectrometry data in R](Session3-ChristianPanse-DirectAccess-rawR_EuroBioc2019_Brussels_bb4e.pdf)
+* Oliver Crook - [Uncertainty quantification for dynamic spatial proteomics experiments](./slides/Flashlight3/OliverCrook_bioc2019.pdf)
+* Nils Kurzawa - [Robust statistical inference of small molecule-protein interactions from 2D thermal proteome profiles reveals off-targets of epigenetic drugs](./slides/Flashlight3/20191209_nils_kurzawa_tpp2d.pdf)
 
 ### Session 4
 
