@@ -60,7 +60,7 @@ Chair: Charlotte Soneson
 * Nathalie Pochet - [AMARETTO for network biomedicine: linking diseases, drivers and drugs via multi-omics, clinical, imaging and perturbation data fusion](./slides/Flashlight1/BioC2019_NathaliePochet_FINAL.pptx)
 * Theo Killian - [Exploiting the Depmap cancer dependency data using the depmap R package](./slides/Flashlight1/Depmap_Flashlight_Killian.pdf)
 * Mike Smith - [Benchmarking compression filters for HDF5 backed matrices](./slides/Flashlight1/MikeSmith-HDF5-EuroBioc2019.pdf)
-* Anne Bras - *flowCore - lossless compression*
+* Anne Bras - [flowCore - lossless compression](./slides/Falshlight1/flowcore_anne_bras_final.pdf)
 
 ### Session 2
 
