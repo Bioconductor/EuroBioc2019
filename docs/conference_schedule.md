@@ -55,9 +55,9 @@ The conference dinner is sponsored by GSK.
 Chair: Charlotte Soneson
 
 * Witold Wolski - [fgczgseaora: unifying methods on gene set enrichment](./slides/Flashlight1/Witek_W_fgczgseaora_unifying_methods_on_gene_protein_set_enrichment.pdf)
-* Federico Marini - *GeneTonic: combining components of transcriptome analyses for efficient exploration*
-* Ozan Cinar - *poolr: An extensive set of methods for gene-based testing*
-* Nathalie Pochet - *AMARETTO for network biomedicine: linking diseases, drivers and drugs via multi-omics, clinical, imaging and perturbation data fusion*
+* Federico Marini - [GeneTonic: combining components of transcriptome analyses for efficient exploration](https://federicomarini.github.io/EuroBioc2019/#1)
+* Ozan Cinar - [poolr: An extensive set of methods for gene-based testing](./slides/Flashlight1/ozan_cinar_ebm19_presentation.pdf)
+* Nathalie Pochet - [AMARETTO for network biomedicine: linking diseases, drivers and drugs via multi-omics, clinical, imaging and perturbation data fusion](./slides/Flashlight1/BioC2019_NathaliePochet_FINAL.pptx)
 * Theo Killian - [Exploiting the Depmap cancer dependency data using the depmap R package](./slides/Flashlight1/Depmap_Flashlight_Killian.pdf)
 * Mike Smith - [Benchmarking compression filters for HDF5 backed matrices](./slides/Flashlight1/MikeSmith-HDF5-EuroBioc2019.pdf)
 * Anne Bras - *flowCore - lossless compression*
@@ -67,8 +67,8 @@ Chair: Charlotte Soneson
 Chair: Laurent Gatto
 
 * Katarzyna Gorczak - [Transcriptomics data visualization](./slides/Flashlight2/Katarzyna_Gorczak_Transcriptomics_data_visualizations_chair_LaurentGatto.html)
-* Ruizhu Huang - *Visualizing TreeSummarizedExperiment objects and tree climbing with treeclimbR*
-* Michela Pasetto - *transcriptomicsTemplates: a template for the analysis of transcriptomics data*
+* Ruizhu Huang - [Visualizing TreeSummarizedExperiment objects and tree climbing with treeclimbR](./slides/Flashlight2/02_Session2_tree_based.pdf)
+* Michela Pasetto - [transcriptomicsTemplates: a template for the analysis of transcriptomics data](./slides/Flashlight2/03_presentationPasetto.html)
 * Axelle Loriot - [Genome-wide approach to identify new transcripts induced by DNA hypomethylation in tumors](./slides/Flashlight2/EuroBioc_Axelle_loriot.pdf)
 * Sara Fonseca Costa - [Expression calls from RNA-seq using BgeeCall R package](./slides/Flashlight2/Bioc2019_SaraFonsecaCosta.pdf)
 * Katharina Hembach - [exondiscovery: prediction of unannotated exons from splice-junction RNA-seq reads](./slides/Flashlight2/EuroBioC_Katharina_Hembach.pdf)
