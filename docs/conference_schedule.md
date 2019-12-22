@@ -98,17 +98,14 @@ Chair: Andrea Rau
 ## Posters
 
 - Chong Tang: *msdata2: Lable-Free Proteomics data for Benchmarking*
-- Christophe Vanderaa: *scpdata: a data package for single-cell proteomics*
+- Christophe Vanderaa: [scpdata: a data package for single-cell proteomics](./slides/Posters/Christophe Vanderaa - scpdata a data package for single-cell proteomics.pdf)
 - Gibb Sebastian: *Spectra: a flexible infrastructure for mass spectrometry data*
-- Teun van den Brand: *GENOVA: Explore the Hi-Cs*
+- Teun van den Brand: [GENOVA: Explore the Hi-Cs](./slides/Posters/TvdB_GENOVA_EuroBioc2019.pdf)
 - Tore Bleckwehl: *Single cell methods for regulatory elements*
-- Mireia Ramos-Rodríguez: *UMI4Cats: an R package for analyzing UMI-4C
-  contact data*
+- Mireia Ramos-Rodríguez: [UMI4Cats: an R package for analyzing UMI-4C contact data](./slides/Posters/EuroBioc2019_poster_UMI4Cats_MireiaRamosRodriguez.pdf)
 - Liesbeth François: *Insights into biological mechanisms of an in
   vitro epilepsy model by leveraging gene coexpression modules*
-- Aliaksandra Kakoichankava: *Deconvolution of transcriptomic data
-  shows biologically and clinically relevant signals in pancreatic
-  tumors*
+- Aliaksandra Kakoichankava: [Deconvolution of transcriptomic data shows biologically and clinically relevant signals in pancreatic tumors](./slides/Posters/Kakoichankava_Brussels_2019-12-09.pdf)
 - Tobias Kockmann & Christian Panse: *Direct access to mass spectrometry data in R - the rawR package*
 - Laurent Gatto: *The R for Mass Spectrometry Initiative*
 - Katarzyna Górczak: *Transcriptomics data visualization*
@@ -116,8 +113,7 @@ Chair: Andrea Rau
   application to scRNAseq clustering*
 - Michela Pasetto: *transcriptomicsTemplates: a templates for the
   analysis of transcriptomics data*
-- Sara Fonseca Costa: *Expression calls from RNA-Seq data using
-  BgeeCall R package*
+- Sara Fonseca Costa: [Expression calls from RNA-Seq data using BgeeCall R package](./slides/Posters/Bioc2019_Poster_SaraFonsecaCosta.pdf)
 - Nathalie Pochet: *AMARETTO for network biomedicine: linking
   diseases, drivers and drugs via multi-omics, clinical, imaging and
   perturbation data fusion*
@@ -125,5 +121,4 @@ Chair: Andrea Rau
   the depmap R package*
 - Mike Smith: *Benchmarking compression filters for HDF5 backed
   matrices*
-- Petr Nazarov: *consICA: a package for parallel consensus ICA of
-  multi-omics data and interpretation of the results*
+- Petr Nazarov: [consICA: a package for parallel consensus ICA of multi-omics data and interpretation of the results](./slides/Posters/posterNazarov_Bioconductor2019.pdf)
