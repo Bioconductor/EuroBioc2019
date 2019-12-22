@@ -1,0 +1,27 @@
+---
+title: ''
+output: pdf_document
+latex_engine: xelatex
+classoption: landscape
+header-includes:
+- \renewcommand{\familydefault}{\sfdefault}
+---
+
+\pagenumbering{gobble}
+
+\begin{center}
+  {\Huge\bf Certificate of Attendance} \\
+  \vfill
+  {\Huge\bf <<ATTENDEE_NAME>>} \\
+  \vfill
+  {\Huge\it Euroupean Bioconductor conference 2019}
+  \bigskip \\
+  \includegraphics[height=4cm]{/home/lgatto/wrk/EuroBioc2019/docs/certificates/Bioconductor.png}
+  \includegraphics[height=4cm]{/home/lgatto/wrk/EuroBioc2019/docs/certificates/EuroBioc2019.png}
+  \bigskip \\
+  {\Large \it  9 - 10 December 2019}
+  \bigskip \\
+  {\Large \it UCLouvain, Brussels, Belgium} \\
+\end{center}
+
+\vfill
