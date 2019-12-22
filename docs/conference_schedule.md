@@ -99,7 +99,7 @@ Chair: Andrea Rau
 
 - Chong Tang: *msdata2: Lable-Free Proteomics data for Benchmarking*
 - Christophe Vanderaa: [scpdata: a data package for single-cell proteomics](./slides/Posters/Christophe Vanderaa - scpdata a data package for single-cell proteomics.pdf)
-- Gibb Sebastian: *Spectra: a flexible infrastructure for mass spectrometry data*
+- Gibb Sebastian: [Spectra: a flexible infrastructure for mass spectrometry data](./slides/Posters/spectra_gibb.pdf)
 - Teun van den Brand: [GENOVA: Explore the Hi-Cs](./slides/Posters/TvdB_GENOVA_EuroBioc2019.pdf)
 - Tore Bleckwehl: *Single cell methods for regulatory elements*
 - Mireia Ramos-Rodríguez: [UMI4Cats: an R package for analyzing UMI-4C contact data](./slides/Posters/EuroBioc2019_poster_UMI4Cats_MireiaRamosRodriguez.pdf)
